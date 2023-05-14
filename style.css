@@ -63,6 +63,10 @@ body{
 }
 .profileText h2 span{
     font-size: 0.8em;
+    font-weight: 400;
+}
+.profileText h2 span .sub {
+    font-size: 0.8em;
     font-weight: 300;
 }
 .contactInfo{
@@ -170,7 +174,7 @@ body{
     color: #fff;
 }
 .about ul li {
-    width: 40%;
+    width: 48%;
     padding: 0px;
     background-color: #03a9f4;
     border-radius: 20px;
